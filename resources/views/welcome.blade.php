@@ -15,7 +15,7 @@
             <div class="flex justify-between h-16 items-center">
                 <!-- Logo Kampus & Teks -->
                 <div class="shrink-0 flex items-center space-x-3">
-                    <img src="images/logo.png" alt="Logo">
+                    <img src="images/logo.png" alt="Logo" class="w-16 h-16 object-contain">
                     <span class="text-xl font-bold text-black-700">Sistem Informasi UNUGHA</span>
                 </div>
                 <!-- Menu -->
