@@ -15,11 +15,7 @@
             <div class="flex justify-between h-16 items-center">
                 <!-- Logo Kampus & Teks -->
                 <div class="shrink-0 flex items-center space-x-3">
-<<<<<<< HEAD
-                    <img src="images/logo.png" alt="Logo" class="w-12 h-16 object-contain">
-=======
-                    <img src="images/logo.png" alt="Logo" class="w-16 h-auto object-contain">
->>>>>>> 90edee6 (feat: menambahkan navbar dan grid fitur pada landing page)
+                    <img src="images/logo.png" alt="Logo" class="h-10 w-auto object-contain">
                     <span class="text-xl font-bold text-black-700">Sistem Informasi UNUGHA</span>
                 </div>
                 <!-- Menu -->
